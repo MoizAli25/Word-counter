@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 
 // Importing inquirer and chalk
 import inquirer from "inquirer";
